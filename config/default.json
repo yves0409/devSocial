@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://yves0409:shady0409@devsocialapp.kvf8n.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "jwtsecretofyves",
+  "githubClientId": "7f887759680302f122d8",
+  "githubSecret": "0d7871e4efc64b425c8b54dff916d14dad9c3605"
+}
